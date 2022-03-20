@@ -24,23 +24,24 @@ At the end it didn't affect, because as I said we only consider from grades 10th
 ![Screen Shot 2022-03-20 at 1 37 10 AM](https://user-images.githubusercontent.com/43548929/159154595-5f859a63-c03c-4570-a1ca-787c1b366017.png)
 
 * How does replacing the ninth-grade scores affect the following:
-** Math and reading scores by grade
-All the information for THS 9th graders was declared null.
+
+In the Math and reading scores by grade all the information for THS 9th graders was declared null.
 
 ![Screen Shot 2022-03-20 at 1 34 56 AM](https://user-images.githubusercontent.com/43548929/159154530-9b0bfb1c-e0f1-4492-9e74-722e13dcc368.png)
 ![Screen Shot 2022-03-20 at 1 27 44 AM](https://user-images.githubusercontent.com/43548929/159154310-12342b58-bc26-41fa-b1ec-209a33b30794.png)
 
-** There were no changes in the Scores by school spending
-There were no changes
+There were no changes in the Scores by school spending
+
 ![Screen Shot 2022-03-20 at 1 31 13 AM](https://user-images.githubusercontent.com/43548929/159154394-a770fd46-19b6-4439-9afa-a5b9bb21a557.png)
 
-** There were no changes in the scores by school size
+There were no changes in the scores by school size
 ![Screen Shot 2022-03-20 at 1 32 53 AM](https://user-images.githubusercontent.com/43548929/159154445-d5fab554-891a-40de-8a8f-50a376785286.png)
 
-** There were no changes in the Scores by school type
+There were no changes in the Scores by school type
 ![Screen Shot 2022-03-20 at 1 33 20 AM](https://user-images.githubusercontent.com/43548929/159154462-27d4cf0c-055b-40f2-9443-3997fc0d2d7c.png)
 
 Summary.
+
 After THS's reading and math scores for the 9th graders were considered to be alter. 
 1) We have to clean the data and declared the grades as null values.
 2) We have to reduce the total student count, to consider only those with valid grades.
